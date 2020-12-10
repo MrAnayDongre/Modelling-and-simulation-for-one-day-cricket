@@ -44,3 +44,8 @@ Label: [total] *italicized text*
 
 
 """
+**Dataset:**
+ odi.csv contains the dataset.
+ 
+ **Criketism:**
+ Origianl paper explaining modelling and simulation of one-day cricket. 
